@@ -28,8 +28,19 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
 
 <h2 align="center">Languages and Tools</h2>
 
+<h4 align="center">AI / ML / Data</h4>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,flask,react,nodejs,mongodb,express,tailwind,stripe,git,github,bash,vscode,html,css,js,linux&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,bash&perline=10"/>
+</p>
+
+<h4 align="center">MLOps / Deployment</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,azure,git,github,linux&perline=10"/>
+</p>
+
+<h4 align="center">Web / Automation</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb&perline=10"/>
 </p>
 
 <br/>

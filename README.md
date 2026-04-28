@@ -22,6 +22,7 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
 - 🎭 Built a **Real-Time Emotion Detector** — 7 emotions live from webcam (CNN + OpenCV)
 - ⚽ Built a **Football Sentiment Analyser** — 214,738 records, 89.9% accuracy (Random Forest)
 - 🏥 Built a **Football Injury Risk & Performance AI** — calibrated GBM (AUC 0.88) + Streamlit dashboard
+- 🎯 Built a **Premier League Match Outcome Predictor** — XGBoost on 10 EPL seasons, 57.8% accuracy (within 1.8pp of Bet365)
 - 📫 Reach me at **ovoweroitoje@gmail.com**
 - ⚡ Fun fact: I build ML systems and watch football
 
@@ -342,6 +343,12 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>End-to-end ML system predicting injury risk (calibrated GBM, AUC 0.884) and expected match rating (regression) — synthetic dataset, time-aware splits, Streamlit dashboard for sports-science staff</td>
     <td>Scikit-Learn · GBM · Calibration · Streamlit · Matplotlib</td>
     <td><a href="https://github.com/manny2341/football-injury-ai">View</a></td>
+  </tr>
+  <tr>
+    <td>🎯 Premier League Match Outcome Predictor</td>
+    <td>XGBoost classifier trained on 10 EPL seasons (3,776 real matches) — Elo + rolling form features, 57.8% test accuracy and 0.955 log loss on unseen 2023-24 vs Bet365 closing odds at 59.6%. FastAPI + Streamlit deployment</td>
+    <td>XGBoost · Scikit-Learn · FastAPI · Streamlit · Elo</td>
+    <td><a href="https://github.com/manny2341/football-match-predictor">View</a></td>
   </tr>
 </table>
 

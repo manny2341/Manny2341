@@ -21,6 +21,7 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
 - 📈 Built a **Stock Price Predictor** — LSTM with 5,884 tickers + 15 cryptos, live via yfinance
 - 🎭 Built a **Real-Time Emotion Detector** — 7 emotions live from webcam (CNN + OpenCV)
 - ⚽ Built a **Football Sentiment Analyser** — 214,738 records, 89.9% accuracy (Random Forest)
+- 🏥 Built a **Football Injury Risk & Performance AI** — calibrated GBM (AUC 0.88) + Streamlit dashboard
 - 📫 Reach me at **ovoweroitoje@gmail.com**
 - ⚡ Fun fact: I build ML systems and watch football
 
@@ -322,6 +323,25 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>XGBoost vs 3 models on credit risk data — ROC-AUC metric, 5-fold CV, feature importance analysis</td>
     <td>XGBoost · Random Forest · GBM · Flask</td>
     <td><a href="https://github.com/manny2341/loan-default-predictor">View</a></td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">⚽ Sports Analytics</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>🏥 Football Injury Risk & Performance AI</td>
+    <td>End-to-end ML system predicting injury risk (calibrated GBM, AUC 0.884) and expected match rating (regression) — synthetic dataset, time-aware splits, Streamlit dashboard for sports-science staff</td>
+    <td>Scikit-Learn · GBM · Calibration · Streamlit · Matplotlib</td>
+    <td><a href="https://github.com/manny2341/football-injury-ai">View</a></td>
   </tr>
 </table>
 

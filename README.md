@@ -125,6 +125,12 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>OpenCV · LBPH · Haar Cascade · Flask</td>
     <td><a href="https://github.com/manny2341/face-recognition-login">View</a></td>
   </tr>
+  <tr>
+    <td>🩻 XRayVision</td>
+    <td>Real-time AR X-Ray scanner using MediaPipe Holistic — 4 scan modes, 10K particles, video recording. Single HTML file, zero dependencies</td>
+    <td>MediaPipe · WebGL · JavaScript · HTML5</td>
+    <td><a href="https://github.com/manny2341/XRayVision">View</a></td>
+  </tr>
 </table>
 
 <br/>
@@ -143,6 +149,12 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>Classifies IoT traffic as Benign or Malicious (C&C, DDoS, PortScan, Attack) — 12 CTU-IoT-Malware captures, 25M+ rows, ~99% ROC-AUC</td>
     <td>Random Forest · Scikit-Learn · Flask · IoT-23</td>
     <td><a href="https://github.com/manny2341/network-intrusion-detector">View</a></td>
+  </tr>
+  <tr>
+    <td>👁️ Fraud Eye</td>
+    <td>Advanced AML fraud detection — heuristic rules, real-time alerts, network graph visualisation across React + Node.js + MongoDB stack</td>
+    <td>React · Node.js · MongoDB · Express · D3</td>
+    <td><a href="https://github.com/manny2341/fraud-eye">View</a></td>
   </tr>
 </table>
 
@@ -187,6 +199,12 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>RASA · Python · NLU</td>
     <td><a href="https://github.com/manny2341/rasa-chatbot">View</a></td>
   </tr>
+  <tr>
+    <td>🎤 NLP Personality Analysis</td>
+    <td>Comparative speech analysis of Barack Obama vs Hillary Clinton — sentiment, emotion, POS tagging, NER and personality insights</td>
+    <td>NLTK · spaCy · VADER · Jupyter · Python</td>
+    <td><a href="https://github.com/manny2341/nlp-personality-analysis">View</a></td>
+  </tr>
 </table>
 
 <br/>
@@ -224,6 +242,43 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
     <td>Multi-feature LSTM forecasts 5,884 stock tickers + 15 cryptos with live data, uncertainty bands, and volume chart</td>
     <td>TensorFlow · LSTM · yfinance · Monte Carlo · Flask</td>
     <td><a href="https://github.com/manny2341/stock-price-predictor">View</a></td>
+  </tr>
+  <tr>
+    <td>🚆 Voyage — Ticket Price Forecasting</td>
+    <td>Containerised railway price prediction stack — 5 ML models, FastAPI backend, Streamlit UI, MLflow tracking, fully Dockerised</td>
+    <td>FastAPI · Streamlit · MLflow · Docker · XGBoost</td>
+    <td><a href="https://github.com/manny2341/voyage">View</a></td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🌍 Geospatial & Disaster Response</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>🌊 Flood Detection</td>
+    <td>Sentinel-1 SAR flood mapping — Lee filter + log-ratio change detection + Otsu thresholding across 5 real flood events with km² area calculation</td>
+    <td>SAR · Sentinel-1 · OpenEO · Streamlit · Python</td>
+    <td><a href="https://github.com/manny2341/flood-detection">View</a></td>
+  </tr>
+  <tr>
+    <td>🌪️ Disaster Detection</td>
+    <td>Real-data disaster detection — flood analysis via Sentinel-2 satellite imagery and earthquake detection via the USGS API</td>
+    <td>Sentinel-2 · USGS API · GeoPandas · Python</td>
+    <td><a href="https://github.com/manny2341/disaster-detection">View</a></td>
+  </tr>
+  <tr>
+    <td>🏚️ FEMA Predictions</td>
+    <td>ML system predicting federal disaster recovery costs using FEMA OpenFEMA public data</td>
+    <td>Scikit-Learn · OpenFEMA · Pandas · Python</td>
+    <td><a href="https://github.com/manny2341/fema-predictions">View</a></td>
   </tr>
 </table>
 
@@ -351,13 +406,13 @@ Machine Learning Engineer focused on building real-world AI systems across Compu
 
 <p align="center">
 <a href="https://github.com/manny2341" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/ovowero-itoje" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="mailto:ovoweroitoje@gmail.com" target="_blank">
-  <a href="https://linkedin.com/in/ovowero-itoje" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
